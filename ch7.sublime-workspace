@@ -335,11 +335,27 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "ostruc.rb",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "redcloth.rb",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 171.0,
+		"height": 148.0,
 		"selected_items":
 		[
 			[
@@ -435,7 +451,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 516.0
+		"width": 435.0
 	},
 	"console":
 	{
@@ -460,6 +476,13 @@
 	],
 	"file_history":
 	[
+		"/home/drew/Dropbox/the_odin_project/Cooper Ch 7/net_string.rb",
+		"/home/drew/Dropbox/the_odin_project/Cooper Ch 7/net.rb",
+		"/home/drew/Dropbox/the_odin_project/Cooper Ch 7/vowels.rb",
+		"/home/drew/Dropbox/the_odin_project/Cooper Ch 7/test_require.rb",
+		"/home/drew/Dropbox/the_odin_project/Cooper Ch 7/a.rb",
+		"/home/drew/Dropbox/the_odin_project/Cooper Ch 7/b.rb",
+		"/home/drew/Dropbox/the_odin_project/Cooper Ch 7/load_require.rb",
 		"/home/drew/Dropbox/the_odin_project/interview_prep/cooper_ch6/enums_free.rb",
 		"/home/drew/Dropbox/the_odin_project/interview_prep/random_exercises/override_inheritance.rb",
 		"/home/drew/Dropbox/the_odin_project/interview_prep/random_exercises/inheritance.rb",
@@ -580,14 +603,7 @@
 		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/views/authors/_form.html.erb",
 		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/views/authors/new.html.erb",
 		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/db/migrate/20140917231535_sorcery_core.rb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/db/migrate/20140917203901_add_paperclip_fields_to_article.rb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/helpers/articles_helper.rb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/models/article.rb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/models/comment.rb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/views/tags/show.html.erb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/views/tags/index.html.erb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/views/articles/new.html.erb",
-		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/app/models/tag.rb"
+		"/home/drew/Dropbox/the_odin_project/jumpstart_blogger/blogger/db/migrate/20140917203901_add_paperclip_fields_to_article.rb"
 	],
 	"find":
 	{
@@ -605,6 +621,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"require",
+			"load",
+			"require",
 			"j",
 			"i",
 			"args",
@@ -647,8 +666,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "ostruc.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "redcloth.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
